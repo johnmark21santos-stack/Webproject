@@ -1,4 +1,4 @@
-public class AccessCheck {
+public class Main {
     public static void main[(string[]args){
         int userAge= 17;
         int securityPin = 4321;
