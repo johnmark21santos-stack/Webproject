@@ -1,4 +1,4 @@
-public class ShippingCalculator{
+public class Main {
     public static void(String[]args){
         double orderTotal = 1250.50;
         int stockQuantity = 0;
