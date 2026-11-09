@@ -1,4 +1,4 @@
-public class AcademicEvaluator {
+public class Main {
     public static void main(String[]args) {
         
         double gwa = 94.5;
