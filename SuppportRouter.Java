@@ -1,4 +1,4 @@
-public class SupportRouter {
+public class Main {
     public static void main(String[]args){
 
     int menuOption 3:
